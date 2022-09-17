@@ -1,5 +1,6 @@
 # Omnidirectional-Camera-Blind-Assisting-System
-***科技部大專學生研究計畫***
+**盲人安全導航帽系統**
+**科技部大專學生研究計畫**
 
 **摘要**
   
