@@ -1,4 +1,6 @@
 # Omnidirectional-Camera-Blind-Assisting-System
+*科技部大專學生研究計畫*
+
 **摘要**
   
 &nbsp;&nbsp;&nbsp;&nbsp;本研究將以影像辨識結合 YOLO 語意分析的技術，試圖解決盲人在用路安全上的困擾與危險。設計上整合 GPS 導航引導使用者前往特定目的地，使盲人在通勤時更加安全與方便。
